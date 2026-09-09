@@ -51,3 +51,248 @@ HP PAVILION GAMING 15-CX0216TX
 - **i5-1135G7 lebih unggul** di single-core, hemat daya, iGPU jauh lebih bagus, dan arsitektur lebih modern.
 - Untuk penggunaan sehari-hari + baterai awet → pilih **i5-1135G7**.
 - Untuk kerja berat multi-core + GPU dedicated → **i7-8750H** masih oke.
+____________________________________________________________________________________________________________________________________
+PART 2
+
+# 💻 Perbandingan Spesifikasi Laptop & Prosesor
+
+Ringkasan komparasi performa prosesor laptop kelas **harian, ultrabook, dan workstation** berdasarkan arsitektur, jumlah core/thread, performa CPU, iGPU, serta efisiensi daya.
+
+---
+
+## 📊 Ringkasan Komparasi Utama
+
+| Fitur / Parameter | **HP Laptop 15-fc0077od** | **ThinkPad T14 Gen 2** | **Laptop Workstation Tua** |
+|---|:---:|:---:|:---:|
+| **Prosesor** | **AMD Ryzen 7 7730U** | **Intel Core i5-1135G7** | **Intel Core i7-9850H** |
+| **Generasi / Arsitektur** | Zen 3 · 7 nm | Tiger Lake · 10 nm | Coffee Lake · 14 nm |
+| **Core / Thread** | **8C / 16T** | 4C / 8T | 6C / 12T |
+| **iGPU** | AMD Radeon Vega 8 | Intel Iris Xe 80 EU* | Intel UHD Graphics 630 |
+| **Kelas CPU** | Ultrabook / Mainstream | Ultrabook / Business | Mobile Workstation / High Performance |
+| **Single-Core** | 🟩 **Tinggi** | 🟨 Sedang | 🟥 Rendah |
+| **Multi-Core** | 🟩 **Sangat Tinggi** | 🟥 Rendah | 🟨 Sedang |
+| **Efisiensi Daya** | 🟩 **Sangat Irit** | 🟨 Standar | 🟥 Boros |
+| **Kelebihan Utama** | 8C/16T + efisiensi tinggi | Build quality + mobilitas | 6C/12T + CPU H-Series |
+| **Kekurangan Utama** | iGPU terbatas | 4C/8T | Panas + konsumsi daya tinggi |
+
+> **\*** Iris Xe pada i5-1135G7 membutuhkan konfigurasi memori yang sesuai. Pada konfigurasi single-channel, performa grafis dapat turun signifikan.
+
+---
+
+# ⚡ Detail Performa Sustained CPU
+
+## 🔵 AMD Ryzen 7 7730U
+
+**Perangkat:** HP Laptop 15-fc0077od  
+**Status:** 🏆 **Pemenang Performa & Efisiensi**
+
+| Parameter | Perkiraan / Karakteristik |
+|---|---|
+| **Arsitektur** | Zen 3 |
+| **Proses Fabrikasi** | 7 nm |
+| **Core / Thread** | **8C / 16T** |
+| **TDP Default** | 15 W |
+| **Short Burst Power** | ~25–28 W |
+| **Sustained Power** | ~15–18 W* |
+| **All-Core Clock** | ~2.6–2.9 GHz* |
+| **Cinebench R23 Multi-Core** | ~10.000+ poin* |
+| **iGPU** | Radeon Vega 8 |
+
+### Keunggulan
+
+- **8 core / 16 thread** memberikan kapasitas multitasking yang jauh lebih besar.
+- Sangat cocok untuk:
+  - 💻 Multitasking berat
+  - 🎬 Video editing
+  - 🧑‍💻 Coding
+  - 🧊 Rendering ringan–menengah
+  - 📦 Kompresi / encoding
+  - 🖥️ Produktivitas intensif
+- Efisiensi daya sangat baik untuk performa yang diberikan.
+- Konsumsi daya dan temperatur umumnya lebih rendah dibanding CPU H-Series generasi lama.
+
+### Catatan
+
+> *Sustained power, clock, dan skor benchmark sangat bergantung pada desain laptop, BIOS, temperatur, dan konfigurasi daya. Angka di atas sebaiknya dianggap sebagai kisaran, bukan spesifikasi tetap.*
+
+---
+
+## 🟢 Intel Core i5-1135G7
+
+**Perangkat:** ThinkPad T14 Gen 2  
+**Status:** ⚖️ **Cukup untuk Harian & Mobilitas**
+
+| Parameter | Perkiraan / Karakteristik |
+|---|---|
+| **Arsitektur** | Tiger Lake |
+| **Proses Fabrikasi** | 10 nm SuperFin |
+| **Core / Thread** | 4C / 8T |
+| **TDP Nominal** | 12–28 W configurable |
+| **Sustained Power** | ~15–28 W* |
+| **Cinebench R23 Multi-Core** | ~5.000–6.000 poin* |
+| **iGPU** | Intel Iris Xe 80 EU* |
+
+### Keunggulan
+
+- Single-core masih cukup responsif untuk:
+  - Office
+  - Browsing
+  - Coding
+  - Produktivitas sehari-hari
+  - Aplikasi ringan–menengah
+- Efisiensi cukup baik.
+- ThinkPad T14 memiliki keunggulan pada **build quality, keyboard, durability, dan maintainability**.
+
+### ⚠️ Catatan Penting: Iris Xe
+
+Performa **Iris Xe 80 EU** sangat bergantung pada konfigurasi RAM.
+
+- 🟢 **Dual-channel RAM:** Iris Xe dapat bekerja mendekati performa yang diharapkan.
+- 🟡 **Single-channel RAM:** bandwidth memori turun sehingga performa iGPU ikut turun signifikan dan konfigurasi grafis dapat teridentifikasi sebagai UHD pada sebagian sistem.
+
+> Untuk laptop dengan i5-1135G7, **konfigurasi RAM sangat penting** jika ingin memaksimalkan performa iGPU.
+
+---
+
+## 🔴 Intel Core i7-9850H
+
+**Kelas:** Mobile High Performance / Workstation  
+**Status:** ⚠️ **Legacy High-Performance**
+
+| Parameter | Spesifikasi |
+|---|---|
+| **Arsitektur** | Coffee Lake |
+| **Proses Fabrikasi** | 14 nm |
+| **Core / Thread** | **6C / 12T** |
+| **Base Clock** | 2.60 GHz |
+| **Max Turbo** | Hingga 4.60 GHz |
+| **TDP** | 45 W |
+| **iGPU** | Intel UHD Graphics 630 |
+
+### Keunggulan
+
+- Memiliki **6 core / 12 thread**.
+- Dirancang untuk laptop performa tinggi.
+- Cocok untuk workstation lama yang dipasangkan dengan GPU diskret.
+
+### Kekurangan
+
+- Arsitektur sudah cukup tua.
+- Efisiensi daya jauh di bawah CPU modern.
+- Konsumsi daya tinggi.
+- Temperatur dapat tinggi pada beban berat.
+- Performa iGPU sangat lemah dibanding iGPU modern.
+- Untuk penggunaan tanpa GPU diskret, keunggulannya semakin sulit dipertahankan.
+
+### Kesimpulan
+
+> i7-9850H masih menarik jika berada di laptop workstation dengan **GPU diskret kuat** dan harga bekas yang sangat murah. Namun sebagai CPU standalone untuk laptop harian, Ryzen 7 7730U jauh lebih menarik dari sisi efisiensi dan multi-core.
+
+---
+
+# 🏆 Ranking Performa
+
+| Posisi | Prosesor | Performa | Efisiensi | Cocok Untuk |
+|---:|---|---|---|---|
+| 🥇 | **Ryzen 7 7730U** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | Multitasking, editing, coding, produktivitas |
+| 🥈 | **Core i7-9850H** | ⭐⭐⭐⭐ | ⭐⭐ | Workstation lama + GPU diskret |
+| 🥉 | **Core i5-1135G7** | ⭐⭐⭐ | ⭐⭐⭐⭐ | Office, coding, mobilitas |
+
+> **Catatan:** Ranking di atas merupakan penilaian umum berdasarkan kombinasi performa CPU dan efisiensi. Hasil nyata dapat berubah tergantung power limit, cooling, RAM, BIOS, dan desain laptop.
+
+---
+
+# 🔋 Perbandingan Efisiensi
+
+### Ryzen 7 7730U
+**15 W class**
+
+🟢 Efisiensi sangat tinggi  
+🟢 8C / 16T  
+🟢 Performa multi-core kuat  
+🟢 Cocok untuk laptop tipis  
+
+### Core i5-1135G7
+**15–28 W configurable**
+
+🟢 Efisiensi baik  
+🟢 Single-core responsif  
+🟡 Hanya 4C / 8T  
+🟡 Performa multi-core terbatas  
+
+### Core i7-9850H
+**45 W class**
+
+🟡 Performa CPU masih layak  
+🟥 Konsumsi daya tinggi  
+🟥 Temperatur tinggi  
+🟥 Efisiensi rendah  
+
+---
+
+# 🎯 Kesimpulan Akhir
+
+## 🥇 HP Laptop 15-fc0077od — Ryzen 7 7730U
+
+**Pilihan terbaik secara keseluruhan.**
+
+Kombinasi **8C/16T + Zen 3 + efisiensi tinggi** membuat Ryzen 7 7730U unggul untuk penggunaan jangka panjang, multitasking, coding, editing, dan pekerjaan CPU-intensive.
+
+---
+
+## 🥈 ThinkPad T14 Gen 2 — Core i5-1135G7
+
+**Pilihan terbaik untuk mobilitas dan durability.**
+
+Walaupun CPU-nya kalah jauh dalam multi-core dibanding Ryzen 7 7730U, T14 Gen 2 memiliki keunggulan pada:
+
+- Build quality
+- Keyboard
+- Portability
+- Maintainability
+- Reliability
+- Ekosistem ThinkPad
+
+Untuk pekerjaan harian dan mobilitas, i5-1135G7 masih sangat mencukupi.
+
+---
+
+## 🥉 Workstation Lama — Core i7-9850H
+
+**Pilihan khusus untuk workstation murah.**
+
+i7-9850H masih mempunyai **6C/12T** dan dapat memberikan performa yang layak apabila dipasangkan dengan GPU diskret yang kuat.
+
+Namun, konsumsi daya dan panasnya jauh lebih tinggi.
+
+**Worth it hanya jika:**
+
+- Harga laptop sangat murah.
+- GPU diskretnya masih kuat.
+- Cooling system masih sehat.
+- Membutuhkan performa workstation dengan budget terbatas.
+
+---
+
+# 🧠 Verdict
+
+| Kebutuhan | Pemenang |
+|---|---|
+| 🚀 **Performa CPU keseluruhan** | 🥇 Ryzen 7 7730U |
+| 🔥 **Multi-Core** | 🥇 Ryzen 7 7730U |
+| ⚡ **Efisiensi** | 🥇 Ryzen 7 7730U |
+| 🔋 **Battery Life** | 🥇 Ryzen 7 7730U |
+| 💼 **Build Quality** | 🥇 ThinkPad T14 Gen 2 |
+| 🧳 **Mobilitas** | 🥇 ThinkPad T14 Gen 2 |
+| 🎮 **iGPU** | 🥇 Ryzen 7 7730U / Iris Xe* |
+| 🖥️ **Workstation + GPU Diskret** | 🥇 i7-9850H |
+| 💰 **Value jika bekas murah** | Tergantung harga & GPU |
+| 🏆 **Overall** | **Ryzen 7 7730U** |
+
+---
+
+> ### 📌 Catatan Akurasi
+>
+> Angka **sustained power, clock, temperatur, dan Cinebench** bukan angka universal untuk setiap laptop. Dua laptop dengan CPU yang sama dapat menghasilkan performa berbeda karena perbedaan **cooling, BIOS, power limit, RAM, dan konfigurasi pabrikan**.
+>
+> Untuk perbandingan laptop yang benar-benar akurat, sebaiknya gunakan **data sustained load dari model laptop spesifik**, bukan hanya spesifikasi CPU-nya.
