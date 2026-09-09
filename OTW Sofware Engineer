@@ -1,0 +1,902 @@
+kan paling gw mau sofware enginer sih dan paling juga compuer sience
+
+Nah, kalau target utama lu Software Engineer + Computer Science, justru gue bakal ubah rekomendasinya sedikit. Dan menurut gue ini malah lebih enak, karena lu nggak perlu nyemplung ke semua roadmap yang ada di roadmap.sh. 😎
+
+🎯 Jalur yang gue rekomendasikan buat lu
+
+Gue bakal membaginya jadi 3 lapisan:
+
+                COMPUTER SCIENCE
+                       │
+          ┌────────────┴────────────┐
+          │                         │
+   FUNDAMENTAL CS             SOFTWARE ENGINEERING
+          │                         │
+   Algorithms                 Git / GitHub
+   Data Structures            Testing
+   OS                         Debugging
+   Networking                 Clean Code
+   Database                   Architecture
+   Computer Architecture     Design Patterns
+          │                         │
+          └────────────┬────────────┘
+                       │
+                  SPECIALIZATION
+                       │
+          ┌────────────┼────────────┐
+          ↓            ↓            ↓
+        Web          AI/ML         Systems
+
+Jadi Computer Science adalah fondasi, sedangkan Software Engineering adalah kemampuan membangun software dalam dunia nyata.
+
+🗺️ 1. roadmap.sh tetap sangat berguna
+
+Untuk lu, jangan buka semua roadmap.
+
+Fokus dulu ke:
+
+🥇 Software Design & Architecture
+🥈 Computer Science
+🥉 Backend / Full Stack
+🟢 Python / C++ / JavaScript
+🟢 SQL
+🟢 Git
+🟢 Linux
+🟢 System Design
+
+Lu bisa menggunakan roadmap.sh sebagai peta navigasi.
+
+Tapi jangan dianggap sebagai kurikulum tunggal.
+
+🧠 2. Kalau mau Computer Science, CS50 wajib dipertimbangkan
+
+Harvard University punya CS50, dan ini menurut gue jauh lebih relevan buat lu daripada langsung mengejar framework.
+
+CS50
+
+Kenapa?
+
+Karena lu bakal ketemu hal-hal seperti:
+
+C
+│
+├── Memory
+├── Pointers
+├── Algorithms
+├── Data Structures
+│
+↓
+Python
+│
+↓
+SQL
+│
+↓
+Web
+
+Dan bagian yang paling penting:
+
+Lu mulai ngerti kenapa komputer bekerja seperti itu, bukan cuma hafal syntax.
+
+Misalnya:
+
+list = [10, 20, 30]
+
+Pemula mungkin cuma berpikir:
+
+"Oh, list."
+
+Computer Science mulai bertanya:
+
+"Data ini disimpan bagaimana?"
+
+"Berapa kompleksitas pencariannya?"
+
+"Bagaimana memory dialokasikan?"
+
+"Kenapa array berbeda dari linked list?"
+
+Nah, itu yang bikin fondasi lu naik kelas.
+
+💻 3. Software Engineering-nya dibangun lewat project
+
+Setelah fundamental, jangan terus-terusan kursus.
+
+Mulai bikin.
+
+Misalnya:
+
+Project 1
+
+CLI application
+
+Python
++ Git
++ File I/O
++ Error handling
+Project 2
+
+REST API
+
+Python
+FastAPI
+PostgreSQL
+Git
+Testing
+Project 3
+
+Web application
+
+Frontend
+   ↓
+API
+   ↓
+Backend
+   ↓
+Database
+Project 4
+
+Distributed-ish system
+
+Frontend
+    ↓
+API Gateway
+    ↓
+Backend
+ ┌──┴─────┐
+ ↓        ↓
+DB      Redis
+Project 5
+
+Nah baru lu bisa bikin sesuatu yang lebih gila:
+
+       AURA
+        │
+ ┌──────┼────────┐
+ ↓      ↓        ↓
+ESP32  Backend   AI
+        │         │
+        ↓         ↓
+     Firebase    LLM
+        │
+        ↓
+    Dashboard
+
+Dan ini menarik karena AURA sebenarnya bisa jadi project portfolio Software Engineering yang lumayan serius, bukan sekadar project ESP32.
+
+🧩 4. Jangan terlalu tergantung tutorial
+
+Ini bagian yang menurut gue penting banget.
+
+Ada dua tipe belajar:
+
+❌ Tutorial dependency
+Nonton tutorial
+      ↓
+Ikutin
+      ↓
+Copy code
+      ↓
+Berhasil
+      ↓
+"Kayaknya gue bisa"
+
+Lalu seminggu kemudian:
+
+"Bang kenapa API gue error?" 😭
+
+✅ Engineering mindset
+Masalah
+   ↓
+Requirement
+   ↓
+Design
+   ↓
+Research
+   ↓
+Implement
+   ↓
+Test
+   ↓
+Debug
+   ↓
+Refactor
+   ↓
+Document
+
+Ini yang lu mau kejar.
+
+🧱 5. Skill Computer Science yang gue prioritaskan
+
+Kalau target lu Software Engineer + CS, urutannya kira-kira:
+
+Prioritas	Materi
+🔥🔥🔥	Programming
+🔥🔥🔥	Data Structures
+🔥🔥🔥	Algorithms
+🔥🔥🔥	Git
+🔥🔥🔥	Database / SQL
+🔥🔥🔥	Operating Systems
+🔥🔥🔥	Computer Networks
+🔥🔥	Computer Architecture
+🔥🔥	Software Engineering
+🔥🔥	Testing
+🔥🔥	System Design
+🔥	Distributed Systems
+🔥	Compiler
+🔥	Advanced theory
+
+Lu nggak perlu menguasai semuanya sekaligus.
+
+🧠 Terus bahasa pemrogramannya?
+
+Ini juga jangan rakus.
+
+Gue justru menyarankan:
+
+Python + C/C++ + JavaScript/TypeScript
+
+Kenapa tiga?
+
+🐍 Python
+
+Untuk:
+
+automation
+backend
+AI
+scripting
+prototyping
+
+Dan lu sudah bersentuhan dengan Python.
+
+⚙️ C/C++
+
+Untuk memahami:
+
+memory
+pointer
+low-level
+OS
+hardware
+performance
+
+Karena lu juga tertarik hardware/ESP32, C/C++ bakal sangat berguna.
+
+🌐 JavaScript / TypeScript
+
+Untuk:
+
+frontend
+web
+Node.js
+full-stack
+
+Jadi ketiganya punya fungsi berbeda.
+
+🚫 Yang nggak perlu lu lakukan sekarang
+
+Jangan begini:
+
+Python
+C++
+Java
+Rust
+Go
+Kotlin
+Swift
+PHP
+Ruby
+C#
+TypeScript
+...
+
+Terus semuanya baru sampai:
+
+Hello World
+
+💀
+
+Lebih baik:
+
+Python
+   ↓
+CS Fundamental
+   ↓
+C
+   ↓
+Algorithms
+   ↓
+SQL
+   ↓
+Backend
+   ↓
+Projects
+   ↓
+TypeScript
+   ↓
+Systems
+🏆 Kalau gue bikin "stack belajar" lu
+
+Gue bakal bikin seperti ini:
+
+LEVEL 0
+
+Programming Fundamentals
+
+Python
+Git
+Terminal
+Linux basics
+
+↓
+
+LEVEL 1
+
+Computer Science
+
+C
+Algorithms
+Data Structures
+Memory
+Complexity
+
+↓
+
+LEVEL 2
+
+Core CS
+
+Operating Systems
+Computer Architecture
+Networking
+Databases
+
+↓
+
+LEVEL 3
+
+Software Engineering
+
+OOP
+Clean Code
+Testing
+Debugging
+Design Patterns
+Git workflow
+API
+Documentation
+
+↓
+
+LEVEL 4
+
+Professional SWE
+
+Backend
+Frontend
+System Design
+Distributed Systems
+Docker
+CI/CD
+Cloud
+Observability
+
+↓
+
+LEVEL 5
+
+Specialization
+
+Baru pilih:
+
+AI Engineer
+      atau
+Backend Engineer
+      atau
+Systems Engineer
+      atau
+Full Stack
+      atau
+Embedded
+💡 Dan menurut gue lu punya jalur yang menarik
+
+Karena minat lu bukan cuma:
+
+"Gue mau bikin website."
+
+Tapi juga ada hardware + software + AI.
+
+Maka suatu saat lu bisa punya profil:
+
+Software Engineer dengan fondasi Computer Science dan spesialisasi AI/IoT/Systems.
+
+Itu jauh lebih fleksibel.
+
+Lu bisa pindah-pindah:
+
+Software Engineer
+       │
+       ├── Backend
+       ├── AI Engineer
+       ├── Systems
+       ├── IoT
+       ├── Embedded
+       └── Full Stack
+
+tanpa merasa harus mulai dari nol setiap kali pindah bidang.
+
+Kalau gue harus memilih cuma 5 resource buat perjalanan lu:
+
+1. roadmap.sh → menentukan apa yang perlu dipelajari
+2. CS50 → fondasi Computer Science
+3. freeCodeCamp → latihan terstruktur
+4. The Odin Project → belajar engineering lewat project
+5. GitHub + project pribadi → membuktikan lu benar-benar bisa
+
+Dan jangan buru-buru ngejar 20 sertifikat. Untuk Software Engineering, kemampuan + project + pemahaman fundamental jauh lebih berharga daripada koleksi sertifikat yang panjangnya sudah seperti struk Indomaret. 😭
+
+Kalau yang lu maksud di roadmap.sh, sebenarnya nggak ada yang perlu lu download. 😄
+
+roadmap.sh itu website interaktif. Lu cukup buka:
+
+roadmap.sh Dashboard
+
+Terus untuk target Software Engineer + Computer Science, yang perlu lu buka/pelajari dulu:
+
+Computer Science roadmap → buat fondasi CS
+Software Design & Architecture → cara membangun software dengan benar
+Backend roadmap → kalau mau kuat di sisi server
+Python roadmap → bahasa awal yang cocok
+Git & GitHub → wajib untuk workflow software engineer
+SQL roadmap → database
+Linux roadmap → environment engineering
+Tapi kalau maksud lu "apa yang harus di-download di laptop?"
+
+Nah itu beda. Untuk mulai jalur ini, gue bakal pasang:
+
+VS Code
+Git
+Python
+Node.js
+Windows Terminal / PowerShell
+Docker
+
+Belum perlu install Java, C++, Rust, Go, Kubernetes, Android Studio, dll sekaligus. Kita pasang sesuai tahap belajarnya biar laptop lu nggak berubah jadi gudang software. 😂
+
+Kalau lu lagi melihat halaman roadmap.sh sekarang dan bingung tombol/download yang mana, kirim screenshot halaman yang lu lihat, gue bisa tunjukin mana yang perlu diambil dan mana yang bisa lu skip.
+
+mana saja
+
+Nah, dari yang ada di screenshot lu, kalau target lu Software Engineer + Computer Science, jangan bookmark semuanya. Kita bikin jalur yang waras dulu. 😭
+
+🎯 YANG WAJIB LU BOOKMARK
+
+Dari screenshot itu, gue pilih:
+
+🧠 Fondasi Computer Science
+Roadmap	Prioritas	Kenapa
+Computer Science	🔥🔥🔥	Fondasi utama CS
+Python	🔥🔥🔥	Bahasa awal yang enak + berguna
+C Programming	🔥🔥🔥	Memahami memory, pointer, low-level
+C++	🔥🔥	Lanjutan C, bagus untuk systems/performance
+SQL	🔥🔥🔥	Database, wajib buat SWE
+Linux	🔥🔥🔥	Environment penting buat engineer
+💻 Software Engineering
+Roadmap	Prioritas	Kenapa
+Software Design and Architecture	🔥🔥🔥	Cara merancang software yang proper
+System Design	🔥🔥🔥	Merancang sistem skala besar
+API Design	🔥🔥	Backend & komunikasi antar sistem
+Docker	🔥🔥	Deployment & environment
+Backend	🔥🔥🔥	Jalur SWE yang sangat fundamental
+🌐 Web / aplikasi
+
+Kalau lu mau bisa bikin aplikasi/web juga:
+
+Roadmap	Prioritas
+JavaScript	🔥🔥
+TypeScript	🔥🔥
+Node.js	🔥🔥
+React	🔥
+🟢 Jadi bookmark lu sekarang cukup ini
+
+Kalau gue lihat dua screenshot lu, gue bakal klik bookmark pada:
+
+🧠 COMPUTER SCIENCE
+🐍 PYTHON
+⚙️ C PROGRAMMING
+➕ C++
+🗄️ SQL
+🐧 LINUX
+
+💻 BACKEND
+🏗️ SOFTWARE DESIGN AND ARCHITECTURE
+🏢 SYSTEM DESIGN
+🔌 API DESIGN
+🐳 DOCKER
+
+🌐 JAVASCRIPT
+📘 TYPESCRIPT
+🟢 NODE.JS
+⚛️ REACT
+
+Total: 15 roadmap.
+
+Tapi jangan panik karena 15 bukan berarti lu harus belajar 15 sekaligus.
+
+🔴 YANG JANGAN LU SENTUH DULU
+
+Untuk target lu sekarang, skip dulu:
+
+Android
+iOS
+Flutter
+Vue
+Angular
+Rust
+Go
+Java
+Spring Boot
+ASP.NET Core
+GraphQL
+MongoDB
+Kubernetes
+Blockchain
+Cyber Security
+Game Developer
+Data Analyst
+Power BI
+R Programming
+Product Design
+UX Design
+DevOps
+DevSecOps
+MLOps
+Network Engineer
+
+Bukan berarti jelek.
+
+Cuma belum waktunya.
+
+Contohnya Kubernetes:
+
+Bagus? Iya.
+
+Perlu dipelajari sekarang? Nggak.
+
+Lu bakal lebih untung ngerti:
+
+Programming
+    ↓
+Data Structures
+    ↓
+Algorithms
+    ↓
+OS
+    ↓
+Database
+    ↓
+Networking
+    ↓
+Software Engineering
+    ↓
+Backend
+    ↓
+System Design
+    ↓
+Docker
+    ↓
+Kubernetes
+
+daripada langsung:
+
+"Tutorial Kubernetes untuk pemula 2026"
+
+terus lu bingung kenapa pod lu mati. 💀
+
+🤖 Nah, AI Engineer gimana?
+
+Karena lu memang sudah bersinggungan dengan AI/LLM, AI Engineer boleh lu bookmark sebagai jalur sampingan, tapi jangan dijadikan roadmap utama dulu.
+
+Jadi:
+
+                 LU
+                  │
+          ┌───────┴────────┐
+          ↓                ↓
+   SOFTWARE ENGINEER   COMPUTER SCIENCE
+          │                │
+          └───────┬────────┘
+                  ↓
+              AI / LLM
+                  │
+          ┌───────┴───────┐
+          ↓               ↓
+         AURA          Project lain
+
+Dengan begini, kalau tren AI berubah lagi, fondasi lu tetap berdiri.
+
+⭐ Kalau gue harus bikin URUTAN belajarnya
+
+Jangan mengikuti posisi kotak di website. Ikuti urutan ini:
+
+FASE 1
+Python
+↓
+Git
+↓
+Linux
+FASE 2
+C Programming
+↓
+Computer Science
+↓
+Data Structures
+↓
+Algorithms
+FASE 3
+SQL
+↓
+Database
+↓
+Networking
+↓
+Operating Systems
+FASE 4
+Backend
+↓
+API Design
+↓
+Software Design & Architecture
+↓
+Testing
+FASE 5
+JavaScript
+↓
+TypeScript
+↓
+Node.js
+↓
+React
+FASE 6
+Docker
+↓
+System Design
+↓
+Cloud
+↓
+Distributed Systems
+FASE 7
+
+Baru:
+
+AI Engineer
+       ↓
+LLM
+RAG
+Agents
+MLOps
+🏆 Kalau lu cuma mau 5 bookmark sekarang
+
+Bahkan gue lebih suka lu mulai sesederhana ini:
+
+1. Computer Science 🧠
+2. Python 🐍
+3. C Programming ⚙️
+4. SQL 🗄️
+5. Linux 🐧
+
+Setelah fondasi mulai kuat, baru buka Backend → Software Design → API → System Design → Docker.
+
+Intinya: roadmap.sh lu jadikan dashboard perkembangan, bukan checklist "harus tamat semuanya". Kalau semua kotak dicentang tapi belum pernah bikin software yang cukup kompleks, itu cuma Pokémon versi programmer: koleksi roadmap, bukan skill. 😂
+
+terus kan gw udah roadmap nah tempat belajarnya apa tadi yang perniha lu sebutin?
+
+NAHH, ini baru jelas 😂. roadmap.sh = peta. Lu sekarang nanya "belajarnya di mana?" Nah, tempat belajarnya beda.
+
+Kalau target lu Computer Science + Software Engineer, gue susun begini:
+
+🥇 1. CS50 → fondasi Computer Science
+
+CS50 Harvard
+
+Ini yang gue paling rekomendasikan buat mulai.
+
+Belajar:
+
+Programming
+C
+Algorithms
+Data Structures
+Memory
+Python
+SQL
+Web
+Computer Science fundamentals
+
+Jadi roadmap lu:
+
+roadmap.sh → lihat topik → CS50 → praktik
+
+🥈 2. freeCodeCamp → belajar + latihan coding
+
+freeCodeCamp
+
+Ini cocok buat ngisi bagian praktik.
+
+Misalnya roadmap bilang:
+
+Python
+
+Lu belajar Python lewat course/tutorial + latihan di freeCodeCamp.
+
+Ada:
+
+interactive lessons
+coding exercises
+projects
+certification
+
+CS50 lebih ke fondasi.
+freeCodeCamp lebih banyak hands-on.
+
+🥉 3. The Odin Project → belajar Software Engineering lewat project
+
+The Odin Project
+
+Ini terutama mantap kalau lu mulai masuk web/software engineering.
+
+Contohnya:
+
+HTML
+ ↓
+CSS
+ ↓
+JavaScript
+ ↓
+Git
+ ↓
+Node.js
+ ↓
+Database
+ ↓
+Full Stack
+ ↓
+Project
+
+Jadi bukan cuma "nonton materi", tapi lu bikin sesuatu.
+
+🧠 4. MIT OpenCourseWare → kalau mau CS lebih dalam
+
+MIT OpenCourseWare
+
+Ini kalau nanti lu sudah kuat dan pengen masuk lebih dalam.
+
+Misalnya:
+
+Algorithms
+Operating Systems
+Computer Architecture
+Mathematics
+Computer Networks
+Distributed Systems
+
+Jangan mulai dari sini kalau fondasi belum siap.
+
+MIT itu bukan jalan santai. Itu jalan yang kadang bikin kalkulator ikut introspeksi. 💀
+
+🧩 5. LeetCode → latihan problem solving
+
+LeetCode
+
+Ini bukan tempat utama belajar programming.
+
+Pakai setelah lu sudah punya fundamental.
+
+Misalnya belajar:
+
+Array
+Linked List
+Stack
+Queue
+Tree
+Graph
+Sorting
+Searching
+Dynamic Programming
+
+kemudian latihan di LeetCode.
+
+📚 6. Dokumentasi resmi → ini WAJIB dibiasakan
+
+Ini sering dilupakan pemula.
+
+Misalnya lu belajar Python:
+
+Python Documentation
+
+Belajar Git:
+
+Git Documentation
+
+Belajar Docker:
+
+Docker Docs
+
+Belajar JavaScript:
+
+MDN Web Docs
+
+Karena nanti ketika jadi engineer, lu nggak bisa selamanya bergantung pada tutorial YouTube.
+
+🔥 Jadi kalau digabung dengan roadmap.sh lu
+
+Gue bikin sistemnya begini:
+
+                 ROADMAP.SH
+              🗺️ MENENTUKAN ARAH
+                     │
+                     ↓
+              ┌──────────────┐
+              │   BELAJAR    │
+              └──────────────┘
+                     │
+       ┌─────────────┼─────────────┐
+       ↓             ↓             ↓
+     CS50       freeCodeCamp     Odin
+       │             │             │
+       └─────────────┼─────────────┘
+                     ↓
+                  PRAKTIK
+                     │
+                     ↓
+                 PROJECT
+                     │
+                     ↓
+               GITHUB / PORTFOLIO
+                     │
+                     ↓
+              LeetCode (opsional)
+Dan untuk LU secara spesifik:
+
+Awal:
+
+🗺️ roadmap.sh
+🧠 CS50
+🐍 Python
+⚙️ C
+🗄️ SQL
+🐧 Linux
+
+Setelah itu:
+
+💻 The Odin Project / freeCodeCamp
+🔌 Backend
+🏗️ Software Architecture
+🐳 Docker
+🏢 System Design
+
+Kemudian:
+
+🤖 AI/LLM
+🌐 Cloud
+⚡ Distributed Systems
+dan seterusnya.
+
+Jadi jangan cari "satu website terbaik".
+
+Karena fungsi mereka beda:
+
+Lu butuh	Pakai
+🗺️ Menentukan apa yang dipelajari	roadmap.sh
+🧠 Belajar Computer Science	CS50
+💻 Belajar + latihan coding	freeCodeCamp
+🏗️ Belajar software lewat project	The Odin Project
+🎓 CS tingkat dalam	MIT OCW
+🧩 Latihan algoritma	LeetCode
+📖 Belajar teknologi tertentu	Official Documentation
+
+Kalau lu mau jalur yang paling simpel:
+roadmap.sh → CS50 → project → freeCodeCamp/Odin → project lebih besar → LeetCode → lanjut roadmap.
+
+Itu jauh lebih masuk akal daripada lu buka 30 website belajar sekaligus dan akhirnya cuma punya 47 tab Chrome + satu rasa bersalah. 😂
