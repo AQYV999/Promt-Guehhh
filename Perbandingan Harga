@@ -63,15 +63,15 @@ Ringkasan komparasi performa prosesor laptop kelas **harian, ultrabook, dan work
 ## 📊 Ringkasan Komparasi Utama
 
 | Fitur / Parameter | **HP Laptop 15-fc0077od** | **ThinkPad T14 Gen 2** | **Laptop Workstation Tua** |
-|---|:---:|:---:|:---:|
-| **Prosesor** | **AMD Ryzen 7 7730U** | **Intel Core i5-1135G7** | **Intel Core i7-9850H** |
+|---    |:---:          |:---:|:---:|
+| **Prosesor**               | **AMD Ryzen 7 7730U** | **Intel Core i5-1135G7** | **Intel Core i7-9850H** |
 | **Generasi / Arsitektur** | Zen 3 · 7 nm | Tiger Lake · 10 nm | Coffee Lake · 14 nm |
-| **Core / Thread** | **8C / 16T** | 4C / 8T | 6C / 12T |
-| **iGPU** | AMD Radeon Vega 8 | Intel Iris Xe 80 EU* | Intel UHD Graphics 630 |
-| **Kelas CPU** | Ultrabook / Mainstream | Ultrabook / Business | Mobile Workstation / High Performance |
-| **Single-Core** | 🟩 **Tinggi** | 🟨 Sedang | 🟥 Rendah |
-| **Multi-Core** | 🟩 **Sangat Tinggi** | 🟥 Rendah | 🟨 Sedang |
-| **Efisiensi Daya** | 🟩 **Sangat Irit** | 🟨 Standar | 🟥 Boros |
+| **Core / Thread**         | **8C / 16T** | 4C / 8T | 6C / 12T |
+| **iGPU**                   | AMD Radeon Vega 8 | Intel Iris Xe 80 EU* | Intel UHD Graphics 630 |
+| **Kelas CPU**             | Ultrabook / Mainstream | Ultrabook / Business | Mobile Workstation / High Performance |
+| **Single-Core**           | 🟩 **Tinggi** | 🟨 Sedang | 🟥 Rendah |
+| **Multi-Core**             | 🟩 **Sangat Tinggi** | 🟥 Rendah | 🟨 Sedang |
+| **Efisiensi Daya**         | 🟩 **Sangat Irit** | 🟨 Standar | 🟥 Boros |
 | **Kelebihan Utama** | 8C/16T + efisiensi tinggi | Build quality + mobilitas | 6C/12T + CPU H-Series |
 | **Kekurangan Utama** | iGPU terbatas | 4C/8T | Panas + konsumsi daya tinggi |
 
