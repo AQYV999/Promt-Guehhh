@@ -1,0 +1,53 @@
+HP PAVILION GAMING 15-CX0216TX
+
+
+• Processor Intel core i7-8750H (12 CPUs)
+• RAM 8 GB
+• SSD 512 GB
+• VGA Intel UHD Graphics 630
+• VGA NVIDIA GeForce GTX 1050
+• Display 15,6” FHD (1920x1080)
+• Windows 11 Pro 64-bit
+7.000.000 cuma dapet i7 gen 8 
+# Perbandingan Intel Core i7-8750H vs i5-1135G7
+
+## Spesifikasi
+
+### i7-8750H
+- Arsitektur: Coffee Lake (14 nm)
+- Cores / Threads: 6 / 12
+- Base Clock: 2.2 GHz
+- Turbo Max: 4.1 GHz
+- Cache L3: 9 MB
+- TDP: 45 W
+- iGPU: UHD Graphics 630
+- Tahun Rilis: 2018
+
+### i5-1135G7
+- Arsitektur: Tiger Lake (10 nm)
+- Cores / Threads: 4 / 8
+- Base Clock: 0.9 – 2.4 GHz
+- Turbo Max: 4.2 GHz
+- Cache L3: 8 MB
+- TDP: 12 – 28 W
+- iGPU: Iris Xe Graphics G7 80EU
+- Tahun Rilis: 2020
+
+## Benchmark (Rata-rata)
+
+### Single-Core
+- PassMark: i7-8750H ~2270 | i5-1135G7 ~2620 (**i5 lebih cepat ~15%**)
+- Cinebench R23: i7-8750H ~1050–1090 | i5-1135G7 ~1330–1350 (**i5 lebih cepat ~25–30%**)
+- Geekbench 6: i7-8750H ~1280 | i5-1135G7 ~1780 (**i5 lebih cepat ~39%**)
+
+### Multi-Core
+- PassMark CPU Mark: i7-8750H ~9750 | i5-1135G7 ~9400 (**i7 sedikit unggul**)
+- Cinebench R23: i7-8750H ~5900–6300 | i5-1135G7 ~5000–5650 (**i7 sedikit unggul**)
+- Geekbench 6: i7-8750H ~4770 | i5-1135G7 ~4930 (**hampir seimbang**)
+
+## Kesimpulan Singkat
+
+- **i7-8750H lebih unggul** di multi-core (lebih banyak core) dan cocok untuk laptop gaming tebal.
+- **i5-1135G7 lebih unggul** di single-core, hemat daya, iGPU jauh lebih bagus, dan arsitektur lebih modern.
+- Untuk penggunaan sehari-hari + baterai awet → pilih **i5-1135G7**.
+- Untuk kerja berat multi-core + GPU dedicated → **i7-8750H** masih oke.
