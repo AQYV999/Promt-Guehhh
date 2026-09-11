@@ -1,0 +1,317 @@
+# PROMPT: FORMAT WORD SUPER PADAT, NARROW & SUPER HEMAT KERTAS
+
+Saya akan menempelkan sebuah TEKS/MATERI di bawah prompt ini.
+
+Tugas kamu adalah **mengubah teks tersebut menjadi dokumen Word yang sangat rapi, padat, narrow, profesional, dan SUPER HEMAT KERTAS**, tetapi **TIDAK BOLEH MENGURANGI, MENGHILANGKAN, MERINGKAS, ATAU MENGUBAH ISI MATERI**.
+
+## ATURAN PALING PENTING
+
+### 1. ISI TIDAK BOLEH BERKURANG
+
+* Pertahankan **100% isi teks asli**.
+* Jangan menghapus kalimat, paragraf, contoh, angka, rumus, definisi, catatan, tabel, atau informasi sekecil apa pun.
+* Jangan meringkas.
+* Jangan membuat versi yang lebih pendek.
+* Jangan mengganti isi dengan kalimat yang lebih singkat.
+* Jangan menggabungkan informasi sampai ada bagian yang hilang.
+* Jangan mengubah makna.
+* Jangan menambahkan materi baru yang tidak ada di teks asli.
+* Perubahan hanya boleh dilakukan pada **FORMAT, TATA LETAK, TYPOGRAPHY, SPACING, DAN ORGANISASI VISUAL**.
+
+**Target utama: isi tetap 100%, penggunaan kertas seminimal mungkin.**
+
+---
+
+# 2. UKURAN HALAMAN
+
+Gunakan:
+
+* Paper: **A4**
+* Orientation: **Portrait**
+* Margin kiri: **1,2 cm**
+* Margin kanan: **1,2 cm**
+* Margin atas: **1,2 cm**
+* Margin bawah: **1,2 cm**
+
+Jika masih memungkinkan tanpa membuat dokumen sulit dibaca, gunakan margin sekitar **1,0–1,2 cm**.
+
+Tujuannya adalah memaksimalkan area tulisan pada setiap halaman.
+
+---
+
+# 3. FONT
+
+Gunakan font yang hemat ruang tetapi tetap sangat mudah dibaca.
+
+Prioritas:
+
+**Arial / Aptos / Calibri / Times New Roman**
+
+Ukuran:
+
+* Isi utama: **14 pt**
+* Subjudul: **14–15 pt bold**
+* Judul utama: **15–16 pt bold**
+* Jangan menggunakan font di bawah **14 pt**.
+
+Jika harus memilih, prioritaskan **14 pt untuk body text** agar jumlah halaman seminimal mungkin.
+
+---
+
+# 4. SPACING SUPER PADAT
+
+Gunakan pengaturan paragraf yang sangat rapat tetapi tetap nyaman dibaca.
+
+### Paragraph spacing:
+
+* Before: **0 pt**
+* After: **0–2 pt**
+
+### Line spacing:
+
+* **Single / 1.0**
+* Jika Word memungkinkan pengaturan lebih presisi, gunakan sekitar **1.0–1.05**
+
+### Jangan:
+
+* Memberikan jarak kosong besar antar paragraf.
+* Memberikan enter berkali-kali.
+* Membuat halaman kosong.
+* Membuat heading memakan terlalu banyak ruang.
+
+---
+
+# 5. JANGAN BOROS KERTAS
+
+Optimalkan setiap halaman secara agresif.
+
+Jika suatu halaman masih menyisakan ruang kosong besar:
+
+* Naikkan posisi konten berikutnya ke halaman tersebut.
+* Kurangi spacing.
+* Rapikan heading.
+* Gabungkan elemen yang memang dapat ditempatkan berdampingan.
+* Hindari page break yang tidak diperlukan.
+* Hindari satu judul berada sendirian di bagian bawah halaman.
+* Jangan membuat halaman baru hanya karena pergantian subbab kecil.
+
+**Setiap halaman harus digunakan semaksimal mungkin.**
+
+Target visual:
+
+> PADAT → RAPI → MUDAH DIBACA → MINIM HALAMAN.
+
+---
+
+# 6. LAYOUT "NARROW"
+
+Gunakan layout yang terasa seperti **modul belajar profesional yang dipadatkan secara ekstrem**.
+
+Prioritaskan:
+
+* Konten memenuhi lebar halaman.
+* Paragraf tidak terlalu melebar jika membuat pembacaan buruk.
+* Gunakan heading kecil tetapi jelas.
+* Gunakan bullet/list jika teks asli memang berbentuk daftar.
+* Gunakan tabel jika struktur informasi memang lebih hemat ruang dalam tabel.
+* Jika terdapat beberapa informasi pendek yang bisa ditempatkan berdampingan tanpa mengubah isi, gunakan layout **2 kolom** secara selektif.
+
+**Jangan memaksakan 2 kolom pada paragraf panjang jika membuat dokumen sulit dibaca.**
+
+---
+
+# 7. HEADING & SUBHEADING
+
+Buat hierarki visual yang jelas.
+
+Contoh:
+
+**JUDUL UTAMA — 16 pt bold**
+
+**SUBJUDUL — 15 pt bold**
+
+**Sub-subjudul — 14 pt bold**
+
+Isi — 14 pt regular
+
+Jangan membuat heading terlalu besar.
+
+Jangan memberikan spacing berlebihan setelah heading.
+
+Heading harus hemat ruang tetapi tetap mudah ditemukan ketika dokumen dipindai.
+
+---
+
+# 8. BULLET & NUMBERING
+
+Jika teks asli memiliki daftar:
+
+* Pertahankan seluruh poin.
+* Jangan menghapus poin.
+* Gunakan indentasi kecil.
+* Jangan memberikan jarak antar bullet yang besar.
+
+Gunakan:
+
+* Hanging indent kecil.
+* Spacing 0 pt.
+* Line spacing 1.0.
+
+Tujuannya agar daftar terlihat **rapat dan profesional**.
+
+---
+
+# 9. TABEL
+
+Jika teks mengandung informasi yang memang cocok dijadikan tabel:
+
+Gunakan tabel untuk menghemat ruang.
+
+Aturan tabel:
+
+* Margin/cell padding kecil.
+* Font tetap minimal **14 pt**.
+* Line spacing 1.0.
+* Jangan membuat row terlalu tinggi.
+* Jangan menambahkan ruang kosong di dalam cell.
+* Jangan menghapus informasi dari teks asli.
+
+Jika tabel justru membuat halaman lebih banyak, gunakan format paragraf biasa.
+
+---
+
+# 10. HEADER & FOOTER
+
+Gunakan header/footer yang sangat minimal.
+
+Footer dapat berisi:
+
+**Nomor halaman**
+
+Jangan membuat header/footer besar yang membuang ruang.
+
+---
+
+# 11. PAGE BREAK
+
+Gunakan page break hanya jika benar-benar diperlukan.
+
+Jangan:
+
+* Membuat setiap bab selalu dimulai halaman baru.
+* Membuat halaman kosong.
+* Memisahkan subjudul kecil dari isinya tanpa alasan.
+* Membiarkan banyak ruang kosong di akhir halaman.
+
+Biarkan konten mengalir secara natural dari satu halaman ke halaman berikutnya.
+
+---
+
+# 12. KERAPIAN
+
+Walaupun dibuat sangat padat, hasil akhir HARUS terlihat profesional.
+
+Hasil yang diinginkan:
+
+**BUKAN:**
+dokumen berantakan yang dipaksa masuk sedikit halaman.
+
+**TAPI:**
+dokumen yang memang sejak awal dirancang sebagai **modul A4 super padat dan hemat kertas**.
+
+Pastikan:
+
+* Alignment konsisten.
+* Indentasi konsisten.
+* Heading konsisten.
+* Font konsisten.
+* Spacing konsisten.
+* Tidak ada teks yang terpotong.
+* Tidak ada tabel rusak.
+* Tidak ada bullet yang kacau.
+* Tidak ada paragraf yang hilang.
+
+---
+
+# 13. PRIORITAS OPTIMASI
+
+Jika harus memilih antara beberapa hal, gunakan urutan prioritas berikut:
+
+**1. 100% isi tetap ada**
+↓
+**2. Hemat jumlah halaman**
+↓
+**3. Font minimal 14 pt**
+↓
+**4. Layout narrow**
+↓
+**5. Tetap mudah dibaca**
+↓
+**6. Tampilan profesional**
+
+Jangan mengorbankan isi hanya demi mengurangi halaman.
+
+---
+
+# 14. HASIL AKHIR
+
+Saya ingin hasil akhir berupa **FILE WORD (.DOCX)** yang sudah siap:
+
+* dicetak
+* dipelajari
+* dibagikan
+* dijadikan modul
+* digunakan sebagai catatan
+
+Jangan hanya memberikan saran formatting.
+
+**BUAT LANGSUNG FILE WORD-NYA.**
+
+---
+
+# 15. QUALITY CONTROL SEBELUM SELESAI
+
+Sebelum memberikan file, lakukan pemeriksaan:
+
+### CONTENT CHECK
+
+Pastikan:
+
+* Tidak ada isi yang hilang.
+* Tidak ada paragraf yang hilang.
+* Tidak ada angka yang hilang.
+* Tidak ada contoh yang hilang.
+* Tidak ada rumus yang hilang.
+* Tidak ada tabel yang hilang.
+* Tidak ada informasi yang diringkas.
+
+### LAYOUT CHECK
+
+Pastikan:
+
+* A4.
+* Margin narrow.
+* Font body minimal 14 pt.
+* Spacing sangat rapat.
+* Tidak ada halaman kosong.
+* Tidak ada ruang kosong yang tidak perlu.
+* Page break diminimalkan.
+* Semua halaman dimanfaatkan secara maksimal.
+
+### FINAL TARGET
+
+Buat dokumen dengan prinsip:
+
+> **"ISI 100% — UKURAN FONT 14–16 PT — NARROW — SUPER PADAT — SUPER HEMAT KERTAS — TETAP RAPI DAN ENAK DIBACA."**
+
+Jangan mengurangi isi untuk mencapai target halaman yang lebih sedikit.
+
+Jika terdapat konflik antara **menghemat kertas** dan **menghilangkan isi**, selalu pilih:
+
+**PERTAHANKAN ISI.**
+
+---
+
+## TEKS YANG HARUS DIUBAH MENJADI WORD:
+
+[ TEMPELKAN TEKS SAYA DI SINI ]
